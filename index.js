@@ -2,3 +2,4 @@
 happyHolidays
 happyHolidaysTo
 `Happy holidays, ${name}!`
+`Happy ${holiday}, ${name}!`
